@@ -6,9 +6,9 @@ and therefore a faster reduction of overall emissions.
 
 This page is a guide for practitioners on how to use automated classification methods to complete these gaps. Different problems require different solutions, so this page is an attempt to guide you to the most likely methods that could work for your problem. No guarantees (please don't sue me I'm on an academic salary...), but it works for us!
 
-Once the full paper is published - [click here to view](), and [click here to cite]().
+[Click here to view paper](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13507), and [click here to cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Machine+learning+for+gap%E2%80%90filling+in+greenhouse+gas+emissions+databases&btnG=).
 
-# "How to" guide (under construction)
+# "How to" guide
 
 The figure below provides an outline of the dataset properties that should lead you to a decision about which classifiers are most suitable to your problem. Each of these steps is discussed in the 3 sections below.
 
